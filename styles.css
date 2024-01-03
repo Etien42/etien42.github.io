@@ -16,7 +16,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #ffffff80;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
@@ -61,7 +61,7 @@ li {
 
 /* Style links */
 a {
-    color: #007BFF;
+    color: #ff0000;
     text-decoration: none;
 }
 
